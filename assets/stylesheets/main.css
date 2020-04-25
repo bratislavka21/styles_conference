@@ -210,7 +210,20 @@ a {
   =====================================================
 */
 .logo {
+  border-top: 4px solid #648880;
   float: left;
+  font-size: 48px;
+  line-height: 44px;
+  padding: 40px 0 22px 0;
+}
+
+.tagline {
+  margin: 66px 0 22px 0;
+}
+
+.primary-nav {
+  font-size: 14px;
+  font-weight: 400;
 }
 
 /*
