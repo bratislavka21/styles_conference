@@ -134,7 +134,6 @@ body {
 
 .row {
   background: #fff;
-  min-width: 960px;
   padding: 66px 0 44px 0;
 }
 
@@ -347,4 +346,21 @@ p a {
   font-size: 14px;
   padding-bottom: 44px;
   padding-top: 44px;
+}
+
+/*
+  =====================================================
+  Спикеры
+  =====================================================
+*/
+.speaker-info {
+  border: 1px solid #dfe2e5;
+  border-radius: 5px;
+  margin-top: 88px;
+  padding: 22px 0;
+  text-align: center;
+}
+
+.speaker {
+  margin-bottom: 44px;
 }
